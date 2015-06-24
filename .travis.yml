@@ -3,6 +3,6 @@ language: php
 
 script:
     - rvm list
-    - rvm use 2.1
+    - rvm install 2.2
     - rvm use 2.2
 
